@@ -1,0 +1,110 @@
+body{
+	background-color:#303030;
+	color:white;
+	font-family:Comic;
+	text-align:center;
+	margin:0 !important;
+	
+}
+
+#sing_in{
+	text-align:right;
+	margin-right:10px;
+	
+}
+a.small_link{
+	text-decoration:none;
+	color:white;
+}
+a.small_link:visited{
+	text-decoration:none;
+	color:white;
+}		
+a.small_link:hover{
+	text-decoration:none;
+	color:#6B5B95;
+}	
+
+h1{
+	margin-top:10px;
+	font-size:45px;
+	text-shadow: 2px 2px 3px #260531;
+	
+	
+}	
+
+.footer{
+	background-color:#303030;
+	
+}
+#footer{
+	text-align:center;
+	font-size:20px;
+	margin-top:10px;
+	margin-bottom:0;
+	padding:20px 0;
+	width: 100%;
+	color: white;
+	/*border-top: 5px solid #262626;*/
+}
+.foot{
+	opacity: 0.4;
+	
+}
+
+main{
+	width: 100%;
+	background-color:#414141;
+	border-top: 5px solid #262626;
+	border-bottom: 5px solid #262626;
+	padding: 10px 0;
+	
+}
+
+#content{
+	width: 1400px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	border: 2px solid #ffffff;
+	
+}
+
+#games{
+	float: left;
+	padding: 20px;
+	border: 2px solid #ffffff;
+	width: 360px;
+}
+
+ol{
+	list-style-type:none;
+	line-height:300%;
+	
+}
+
+ol >li > a{
+	display:block;
+	height: 50px;
+	width:260px;
+	text-decoration:none;
+	color:white;
+	font-size: 30px;
+	border-bottom: 2px dashed #330000;
+}
+ol >li:first-child > a{
+	border-top: 2px dashed #330000;
+}
+ol >li > a:hover{
+	background-color: #661000;
+}
+
+#game-view{
+	float: left;	
+	border: 2px solid #ffffff;
+	width:800px;
+	min-height:600px;
+	margin-left: 192px;
+	
+}
+

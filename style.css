@@ -1,0 +1,135 @@
+body{
+	background-color:#303030;
+	color:white;
+	font-family:Comic;
+	text-align:center;
+	margin:0 !important;
+	
+}
+
+#sing_in{
+	text-align:right;
+	margin-right:10px;
+	
+}
+a.small_link{
+	text-decoration:none;
+	color:white;
+}
+a.small_link:visited{
+	text-decoration:none;
+	color:white;
+}		
+a.small_link:hover{
+	text-decoration:none;
+	color:#6B5B95;
+}	
+
+.name:hover{
+	color: #6B5B95;
+}
+
+a.blocklink{
+	color: #ffffff;
+	text-decoration: none;
+	display:block;
+	height:200px;
+	width:310px;
+	
+}
+a.blocklink:visited{
+	text-decoration: none;
+}
+a.blocklink:hover{
+	text-decoration: none;
+	color: #dddddd;
+}
+h1{
+	margin-top:10px;
+	font-size:45px;
+	text-shadow: 2px 2px 3px #260531;
+	
+}	
+#content{
+	background-color:#414141;
+	/*margin-left:auto;
+	margin-right:auto;*/
+	align:center;
+	width:100%;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:30px; 
+	color:white;
+	border-top: 5px solid #262626;
+	
+}
+#me{
+	background-color:#838487;
+	height:200px;
+	width:310px;
+	padding:20px;
+	margin-right:100px;
+	display:inline-block;
+	border-radius: 100px;
+	
+}
+#me:hover{
+	background-color:#727376;
+}
+#music{
+	background-color:#303030;
+	height:200px;
+	width:310px;
+	padding:20px;
+	display:inline-block;
+	border-radius: 100px;
+}
+#music:hover{
+	background-color:#202020;
+}
+#games{
+	background-color:#4D973A;
+	height:200px;
+	width:310px;
+	padding:20px;
+	margin-right:100px;
+	margin-top:20px;
+	display:inline-block;
+	border-radius: 100px;
+}
+#games:hover{
+	background-color:#3C8629;
+}
+#fb{
+	background-color:#3B5998;
+	height:200px;
+	width:310px;
+	padding:20px;
+	margin-top:20px;
+	display:inline-block;
+	border-radius: 100px;
+	
+}
+#fb:hover{
+	background-color:#2A4887;
+}
+
+.footer{
+	background-color:#303030;
+	
+}
+#footer{
+	text-align:center;
+	font-size:20px;
+	margin-top:0;
+	margin-bottom:0;
+	padding:20px 0;
+	width: 100%;
+	color: white;
+	border-top: 5px solid #262626;
+}
+.foot{
+	opacity: 0.4;
+	
+}
+
